@@ -5,5 +5,5 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.Goodcommon" parent="Base.Theme.Goodcommon" />
+    <style name="Theme.common" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>

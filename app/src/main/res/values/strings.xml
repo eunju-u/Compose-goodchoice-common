@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">good-common</string>
+    <string name="app_name">common</string>
+
+    <string name="str_monday">월</string>
+    <string name="str_tuesday">화</string>
+    <string name="str_wednesday">수</string>
+    <string name="str_thursday">목</string>
+    <string name="str_friday">금</string>
+    <string name="str_saturday">토</string>
+    <string name="str_sunday">일</string>
 </resources>
